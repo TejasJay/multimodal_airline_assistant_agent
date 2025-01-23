@@ -4,6 +4,15 @@ This code implements an AI-based airline assistant for a fictional airline calle
 
 * * *
 
+<a href="https://www.loom.com/share/5469a64715684a80a289ea11015a6238">
+    
+</a>
+
+<a href="https://www.loom.com/share/5469a64715684a80a289ea11015a6238">
+    <img src="https://cdn.loom.com/sessions/thumbnails/5469a64715684a80a289ea11015a6238-2e7dac7dbb2236ce-full-play.gif" width="300">
+</a>
+
+
 ### **1\. Library Imports**
 
 The code imports various libraries, including:
@@ -247,5 +256,3 @@ def ui(self):
 4.  Uses text-to-speech for responses.
 5.  Offers a Gradio-based UI for interaction.
 * * *
-
-Let me know if you need more details or modifications!
