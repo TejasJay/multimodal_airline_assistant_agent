@@ -4,13 +4,13 @@ This code implements an AI-based airline assistant for a fictional airline calle
 
 * * *
 
-<a href="https://www.loom.com/share/5469a64715684a80a289ea11015a6238">
-    
+<a href="https://www.loom.com/share/5469a64715684a80a289ea11015a6238" target="_blank">
 </a>
 
-<a href="https://www.loom.com/share/5469a64715684a80a289ea11015a6238">
+<a href="https://www.loom.com/share/5469a64715684a80a289ea11015a6238" target="_blank">
     <img src="https://cdn.loom.com/sessions/thumbnails/5469a64715684a80a289ea11015a6238-2e7dac7dbb2236ce-full-play.gif" width="300">
 </a>
+
 
 
 ### **1\. Library Imports**
