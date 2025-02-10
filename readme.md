@@ -1,4 +1,4 @@
-### **Explanation of the Code*
+### **Explanation of the Code**
 
 This code implements an AI-based airline assistant for a fictional airline called "TopAirline" using Python. It integrates the OpenAI API for chat interactions, image generation, and text-to-speech capabilities, and provides a Gradio UI for user interaction.
 
